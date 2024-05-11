@@ -11,8 +11,40 @@
 | Programming Concepts and Logics            | 5     | 8     |
 | Web Technology                             | 5     | 8     |
 | Multimedia                                 | 4     | 6     |
-| Information Security and Cyber law         | 6     | 10    |
+| Information Security and Cyberlaw         | 6     | 10    |
 
+
+# Define the term computer, Compare hardware, software and firmware?
+**Computer Definition:**
+A computer is a programmable electronic device that processes data under the control of instructions stored in its memory. It can perform various tasks by executing programs, manipulating data, and providing output in the form of information or actions. Computers consist of hardware components such as processors, memory modules, storage devices, input/output devices, and software components such as operating systems, applications, and utilities.
+
+**Comparison of Hardware, Software, and Firmware:**
+
+**Hardware:**
+- Hardware refers to the physical components of a computer system.
+- Examples of hardware include the central processing unit (CPU), memory (RAM), storage devices (hard drives, SSDs), input devices (keyboard, mouse), output devices (monitor, printer), and peripheral devices (external drives, scanners).
+- Hardware components are tangible and can be touched or seen.
+- Hardware provides the platform for software to run and interact with users.
+
+**Software:**
+- Software refers to the programs, applications, and data that instruct the hardware on how to perform tasks.
+- It includes system software such as operating systems (e.g., Windows, macOS, Linux) that manage computer resources and provide a user interface, as well as application software such as word processors, web browsers, and games.
+- Software is intangible and consists of instructions written in programming languages.
+- Software can be installed, executed, and updated on hardware platforms to perform specific functions.
+
+**Firmware:**
+- Firmware is a type of software that is embedded in hardware devices.
+- It provides low-level control over the device's hardware functionality.
+- Firmware is typically stored in non-volatile memory, such as ROM (Read-Only Memory) or flash memory, and is often specific to a particular hardware device.
+- Examples of firmware include the BIOS (Basic Input/Output System) in a computer, the firmware in a router or modem, or the software in a digital camera.
+- Firmware is essential for initializing hardware components during startup and facilitating communication between hardware and higher-level software.
+
+**Comparison:**
+- Hardware is the physical infrastructure of a computer system, while software is the set of instructions that operate on the hardware.
+- Firmware lies between hardware and software, providing the necessary interface and control for hardware functionality.
+- Hardware is tangible and can be physically manipulated, while software and firmware are intangible and are stored as digital data.
+- Software can be installed, updated, and replaced more easily than firmware, which is often more closely tied to specific hardware configurations.
+- Together, hardware, software, and firmware work in tandem to enable the operation and functionality of a computer system.
 
 # Here are some fundamental characteristics of computers:
 
