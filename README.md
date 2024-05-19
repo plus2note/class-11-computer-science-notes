@@ -121,11 +121,51 @@ While computers offer numerous benefits, it's essential to consider and address 
 
 ===
 # Chapter 2: Number System, Conversion and Boolean Logic
- ## Number System and Conversion
+ ### Introduction to Number Systems
 
- A number system is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner.
+Various systems are used to represent numbers. In working with computers and digital devices, understanding different numerical systems is essential. In this unit, we will study the four main types of numerical systems: Decimal System, Binary System, Octal System, and Hexadecimal System.
 
- ## Four Types of Number System
+### Decimal System
+
+- **Definition**: This is the system we use in daily life. It is also called the Base-10 system because it uses ten digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
+- **Example**: 123 (1*10^2 + 2*10^1 + 3*10^0)
+
+### Binary System
+
+- **Definition**: This system is most commonly used in computers and digital devices. It is called the Base-2 system because it uses only two digits (0 and 1).
+- **Example**: 1010 (1*2^3 + 0*2^2 + 1*2^1 + 0*2^0)
+
+### Octal System
+
+- **Definition**: This system uses eight digits (0 to 7). It is called the Base-8 system.
+- **Example**: 157 (1*8^2 + 5*8^1 + 7*8^0)
+
+### Hexadecimal System
+
+- **Definition**: This system uses sixteen digits (0 to 9 and A, B, C, D, E, F). It is called the Base-16 system.
+- **Example**: 1A3 (1*16^2 + 10*16^1 + 3*16^0, where A=10)
+
+### Boolean Logic
+
+Boolean logic is an important part of computer science, using True and False states to perform logical operations. The main operators are AND, OR, and NOT.
+
+**AND**:
+- The output is True only when both inputs are True.
+- Example: A AND B (if A = True and B = True, the result is True)
+
+**OR**:
+- The output is True if at least one input is True.
+- Example: A OR B (if A = True or B = True, the result is True)
+
+**NOT**:
+- The output is the opposite of the input.
+- Example: NOT A (if A = True, the result is False)
+
+### Summary
+
+The Decimal System is used in our daily life, while the Binary System is used in computers. The Octal and Hexadecimal Systems are also important in computer science. Boolean logic is used to perform logical operations and make decisions in computers.
+
+Good luck with your exam!
 
  ### 1 Decimal Number System
  ### 2 Binary Number System
