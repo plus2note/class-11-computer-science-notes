@@ -117,3 +117,17 @@ Certainly! Computers offer numerous advantages, but they also have some drawback
 8. **Digital Divide**: Disparities in access to computers and digital technologies can widen socioeconomic inequalities, limiting opportunities for individuals and communities without adequate access.
 
 While computers offer numerous benefits, it's essential to consider and address their limitations and challenges to ensure responsible and ethical use in society.
+
+
+===
+# Chapter 2: Number System, Conversion and Boolean Logic
+ ## Number System and Conversion
+
+ A number system is a writing system for expressing numbers; that is, a mathematical notation for representing numbers of a given set, using digits or other symbols in a consistent manner.
+
+ ## Four Types of Number System
+
+ ### 1 Decimal Number System
+ ### 2 Binary Number System
+ ### 3 Octal Number System
+ ### 4 Hexadecimal Number System
