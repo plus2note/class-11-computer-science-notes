@@ -1,4 +1,4 @@
-# Computer Science Class 11 Notes
+# Class 11 Computer Science Notes
 
 ## Class 11 Chapter Summary of Computer Science
 
