@@ -119,7 +119,9 @@ While computers offer numerous benefits, it's essential to consider and address 
 
 ## Number Systems
 
-Various systems are used to represent numbers. In working with computers and digital devices, understanding different numerical systems is essential. In this unit, we will study the four main types of numerical systems: Decimal System, Binary System, Octal System, and Hexadecimal System.
+A number system is a systematic way to representing numbers. It includes symbols and values for representing quantities. The must common number system is the decimal system, which uses ten symbols (0,1,2,3,4,5,6,7,8,9) to represent all numbers. However, there are other number systems as well, such as binary (base-2), octal (base-8), and hexadecimal (base-16), which are widly used in computer science and digital electronics. Each number system has its own set of rules for representing numbers and performing.
+
+Here are the main types of number systems:
 
 ### Decimal System
 
