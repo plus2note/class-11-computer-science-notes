@@ -11,42 +11,43 @@
 | Programming Concepts and Logics            | 5     | 8     |
 | Web Technology                             | 5     | 8     |
 | Multimedia                                 | 4     | 6     |
-| Information Security and Cyberlaw         | 6     | 10    |
+| Information Security and Cyberlaw          | 6     | 10    |
 
+## Definition
 
-# Define the term computer, Compare hardware, software and firmware?
-**Computer Definition:**
 A computer is a programmable electronic device that processes data under the control of instructions stored in its memory. It can perform various tasks by executing programs, manipulating data, and providing output in the form of information or actions. Computers consist of hardware components such as processors, memory modules, storage devices, input/output devices, and software components such as operating systems, applications, and utilities.
 
-**Comparison of Hardware, Software, and Firmware:**
+## Hardware:
 
-**Hardware:**
 - Hardware refers to the physical components of a computer system.
 - Examples of hardware include the central processing unit (CPU), memory (RAM), storage devices (hard drives, SSDs), input devices (keyboard, mouse), output devices (monitor, printer), and peripheral devices (external drives, scanners).
 - Hardware components are tangible and can be touched or seen.
 - Hardware provides the platform for software to run and interact with users.
 
-**Software:**
+## Software:
+
 - Software refers to the programs, applications, and data that instruct the hardware on how to perform tasks.
 - It includes system software such as operating systems (e.g., Windows, macOS, Linux) that manage computer resources and provide a user interface, as well as application software such as word processors, web browsers, and games.
 - Software is intangible and consists of instructions written in programming languages.
 - Software can be installed, executed, and updated on hardware platforms to perform specific functions.
 
-**Firmware:**
+## Firmware:
+
 - Firmware is a type of software that is embedded in hardware devices.
 - It provides low-level control over the device's hardware functionality.
 - Firmware is typically stored in non-volatile memory, such as ROM (Read-Only Memory) or flash memory, and is often specific to a particular hardware device.
 - Examples of firmware include the BIOS (Basic Input/Output System) in a computer, the firmware in a router or modem, or the software in a digital camera.
 - Firmware is essential for initializing hardware components during startup and facilitating communication between hardware and higher-level software.
 
-**Comparison:**
+## Comparison:
+
 - Hardware is the physical infrastructure of a computer system, while software is the set of instructions that operate on the hardware.
 - Firmware lies between hardware and software, providing the necessary interface and control for hardware functionality.
 - Hardware is tangible and can be physically manipulated, while software and firmware are intangible and are stored as digital data.
 - Software can be installed, updated, and replaced more easily than firmware, which is often more closely tied to specific hardware configurations.
 - Together, hardware, software, and firmware work in tandem to enable the operation and functionality of a computer system.
 
-# Here are some fundamental characteristics of computers:
+## Characteristics of Computers:
 
 1. **Speed**: Computers can execute instructions and process data at incredibly high speeds, measured in terms of microseconds, nanoseconds, and even picoseconds.
 
@@ -74,11 +75,7 @@ A computer is a programmable electronic device that processes data under the con
 
 These characteristics collectively contribute to the versatility, efficiency, and transformative power of computers in various domains, including education, business, science, entertainment, and communication.
 
- # Add merits and demerits of computers
-
-Certainly! Computers offer numerous advantages, but they also have some drawbacks. Here's a list of merits and demerits:
-
-### Merits:
+## Merits:
 
 1. **Speed**: Computers can process tasks and calculations much faster than humans, resulting in increased productivity and efficiency.
 
@@ -98,7 +95,7 @@ Certainly! Computers offer numerous advantages, but they also have some drawback
 
 9. **Cost Savings**: In the long run, computers can lead to cost savings by automating processes, reducing paperwork, and increasing operational efficiency.
 
-### Demerits:
+## Demerits:
 
 1. **Dependency**: Overreliance on computers can lead to a loss of critical thinking skills and human interaction, potentially reducing overall productivity and creativity.
 
@@ -118,17 +115,16 @@ Certainly! Computers offer numerous advantages, but they also have some drawback
 
 While computers offer numerous benefits, it's essential to consider and address their limitations and challenges to ensure responsible and ethical use in society.
 
-
-===
 # Chapter 2: Number System, Conversion and Boolean Logic
- ### Introduction to Number Systems
+
+## Number Systems
 
 Various systems are used to represent numbers. In working with computers and digital devices, understanding different numerical systems is essential. In this unit, we will study the four main types of numerical systems: Decimal System, Binary System, Octal System, and Hexadecimal System.
 
 ### Decimal System
 
 - **Definition**: This is the system we use in daily life. It is also called the Base-10 system because it uses ten digits (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).
-- **Example**: 123 (1*10^2 + 2*10^1 + 3*10^0)
+- **Example**: 123 (1*10^2 + 2*10^1 + 3\*10^0)
 
 ### Binary System
 
@@ -138,26 +134,29 @@ Various systems are used to represent numbers. In working with computers and dig
 ### Octal System
 
 - **Definition**: This system uses eight digits (0 to 7). It is called the Base-8 system.
-- **Example**: 157 (1*8^2 + 5*8^1 + 7*8^0)
+- **Example**: 157 (1*8^2 + 5*8^1 + 7\*8^0)
 
 ### Hexadecimal System
 
 - **Definition**: This system uses sixteen digits (0 to 9 and A, B, C, D, E, F). It is called the Base-16 system.
-- **Example**: 1A3 (1*16^2 + 10*16^1 + 3*16^0, where A=10)
+- **Example**: 1A3 (1*16^2 + 10*16^1 + 3\*16^0, where A=10)
 
 ### Boolean Logic
 
 Boolean logic is an important part of computer science, using True and False states to perform logical operations. The main operators are AND, OR, and NOT.
 
 **AND**:
+
 - The output is True only when both inputs are True.
 - Example: A AND B (if A = True and B = True, the result is True)
 
 **OR**:
+
 - The output is True if at least one input is True.
 - Example: A OR B (if A = True or B = True, the result is True)
 
 **NOT**:
+
 - The output is the opposite of the input.
 - Example: NOT A (if A = True, the result is False)
 
@@ -166,8 +165,3 @@ Boolean logic is an important part of computer science, using True and False sta
 The Decimal System is used in our daily life, while the Binary System is used in computers. The Octal and Hexadecimal Systems are also important in computer science. Boolean logic is used to perform logical operations and make decisions in computers.
 
 Good luck with your exam!
-
- ### 1 Decimal Number System
- ### 2 Binary Number System
- ### 3 Octal Number System
- ### 4 Hexadecimal Number System
